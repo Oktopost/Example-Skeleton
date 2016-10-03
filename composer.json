@@ -1,0 +1,17 @@
+{
+    "name": "namp/skeleton-example",
+    "authors": [
+        {
+            "name": "Alexey Puchkov",
+            "email": "alexey@oktopost.com"
+        }
+    ],
+    "require": {
+        "oktopost/skeleton": "^1.0"
+    },
+	"autoload": {
+		"psr-0": {
+			"Example": "src"
+		}
+	}
+}

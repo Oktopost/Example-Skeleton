@@ -1,8 +1,8 @@
 This is an example project for the [Skeleton library](https://github.com/Oktopost/Skeleton).
 
-Note that this library requires php 5.4 or higher installed on your machine.
+Note that this library requires PHP 5.4 or higher installed on your machine.
 
-### Insalling
+### Installation
 
 ```sh
 git clone git@github.com:Oktopost/Example-Skeleton.git
